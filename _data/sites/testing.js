@@ -8,6 +8,6 @@ module.exports = {
 		"https://taylordavidson.com",
 		"https://www.helloneighbor.io",
 		"https://foresight.is",
-		"https://unstructuredventures.com"
+		"https://unstructuredventures.com",
 	]
 };
